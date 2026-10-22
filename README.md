@@ -11,7 +11,7 @@
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-3.8_Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
 [![Tesseract.js](https://img.shields.io/badge/Tesseract.js-7.0-4A90E2?style=flat-square)](https://tesseract.projectnaptha.com/)
 [![Oxlint](https://img.shields.io/badge/Linted_with-Oxlint-F38020?style=flat-square)](https://oxc.rs/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![License: EPL-2.0](https://img.shields.io/badge/License-EPL--2.0-blue.svg?style=flat-square)](LICENSE)
 
 ---
 
@@ -511,7 +511,7 @@ Analyzes a package image alongside OCR text and extracted declarations to evalua
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/high-flyer007/SatyaScan.git
+   git clone https://github.com/mandaldhruv/SatyaScan.git
    cd SatyaScan
    ```
 
@@ -728,12 +728,12 @@ Contributions to SatyaScan are welcome. To contribute:
 ## 16. License & Contact
 
 ### License
-This project is open-source software licensed under the **MIT License**. See the `LICENSE` file for full terms.
+This project is open-source software licensed under the **Eclipse Public License - v 2.0 (EPL-2.0)**. See the `LICENSE` file for full terms.
 
 ### Author & Maintainer
-- **Author**: `high-flyer007`
-- **Email**: [m.alipathan2905@gmail.com](mailto:m.alipathan2905@gmail.com)
-- **Repository**: [https://github.com/high-flyer007/SatyaScan](https://github.com/high-flyer007/SatyaScan)
+- **Author**: `mandaldhruv`
+- **Email**: [mandaldhruv16@gmail.com](mailto:mandaldhruv16@gmail.com)
+- **Repository**: [https://github.com/mandaldhruv/SatyaScan](https://github.com/mandaldhruv/SatyaScan)
 
 ---
 
